@@ -1,0 +1,9 @@
+One should do the following to avoid being blocked by Facebook network as a bot while scrapping.
+1.Customized User-Agent on web driver
+2.Customized Referrer
+3.Using dynamic intervals to scrape
+4.Not firing request too quickly rather waiting
+5.Using dynamic proxies
+
+main problem seems that web drivers do not update options on the fly after a session has been initiated. Hence i failed to change the User-Agent and proxy dynamically.
+May be some kind of header needs to be injected to change UA/proxies on the fly in the same session.
