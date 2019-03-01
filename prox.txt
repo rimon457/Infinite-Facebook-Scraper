@@ -1,0 +1,21 @@
+IP Address	Port	Code	Country	Anonymity	Google	Https	Last Checked
+35.245.189.146	80	US	United States	elite proxy	no	yes	32 minutes ago
+35.245.175.153	80	US	United States	elite proxy	no	yes	1 minute ago
+34.194.88.93	80	US	United States	anonymous	no	no	11 minutes ago
+31.173.211.114	43873	RU	Russian Federation	elite proxy	no	yes	10 minutes ago
+24.232.90.65	50210	AR	Argentina	elite proxy	no	yes	1 minute ago
+219.93.16.182	36064	MY	Malaysia	elite proxy	no	yes	10 minutes ago
+217.67.65.186	53281	UA	Ukraine	elite proxy	no	no	20 minutes ago
+217.21.146.8	35913	AL	Albania	transparent	no	no	21 minutes ago
+217.15.49.195	52030	RU	Russian Federation	elite proxy	no	yes	20 minutes ago
+213.100.166.196	59911	LV	Latvia	elite proxy	no	yes	20 minutes ago
+212.67.0.150	33171	RU	Russian Federation	elite proxy	no	no	1 minute ago
+212.66.117.168	41258	IT	Italy	elite proxy	no	no	1 minute ago
+212.200.106.126	30343	RS	Serbia	elite proxy	no	yes	32 minutes ago
+210.3.215.56	8080	HK	Hong Kong	elite proxy	no	no	20 minutes ago
+206.189.199.81	8080	US	United States	anonymous	no	no	32 minutes ago
+206.109.4.94	8080	US	United States	transparent	no	no	10 minutes ago
+204.14.154.126	55538	US	United States	elite proxy	no	yes	20 minutes ago
+203.77.237.154	54314	ID	Indonesia	elite proxy	no	yes	1 minute ago
+203.209.116.58	80	TH	Thailand	anonymous	no	no	32 minutes ago
+203.154.111.150	45909	TH	Thailand	elite proxy	no	no	20 minutes ago
